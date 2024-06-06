@@ -8,10 +8,10 @@
 </div>
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-navya-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/navyachandra11)
 - 🔭 I’m interested in Backend Development and Data Science
 - 😎 I’m looking to collaborate on projects and open source work
 - 😄 Pronouns: She/her
+- - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-navya-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/navyachandra11)
 
 ## Languages and Tools:
 
