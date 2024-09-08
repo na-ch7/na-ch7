@@ -15,4 +15,4 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,postman,mongodb,git,github,express,cpp,c,java,nodejs,docker,supabase,vscode,py&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,postman,mongodb,git,github,express,cpp,c,java,nodejs,docker,supabase,pnpm,vscode,py&perline=7)](https://skillicons.dev)
